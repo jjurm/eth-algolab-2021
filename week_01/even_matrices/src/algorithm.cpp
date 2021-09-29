@@ -1,4 +1,4 @@
-// week1/even_matrices
+// week_01/even_matrices
 // by Juraj Micko
 //
 // O(n^3)

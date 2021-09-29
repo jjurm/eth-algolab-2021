@@ -1,4 +1,4 @@
-// week1/build_the_sum
+// week_01/build_the_sum
 // by Juraj Micko
 
 #include<iostream>

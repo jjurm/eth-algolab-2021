@@ -1,7 +1,5 @@
-// week1/even_pairs
+// week_01/dominoes
 // by Juraj Micko
-//
-// O(n)
 
 #include<iostream>
 #include<utility>
@@ -36,17 +34,17 @@ typedef vector<VI> VVI;
 
 
 void testcase() {
-    int n,x,even=1,odd=0,sum=0;
+    int n,x,m=1,c=0;
     cin >> n;
-    REP(i,n){
+    REP(i,n) {
         cin >> x;
-        sum += x;
-        if (sum % 2 == 0)
-            even++;
-        else
-            odd++;
+        if (m > 0) {
+            c++;
+            m = max(m, x);
+            m--;
+        }
     }
-    cout << (even*(even-1) + odd*(odd-1))/2 << endl;
+    cout << c << endl;
 }
 int main() {
     std::ios_base::sync_with_stdio(false);
