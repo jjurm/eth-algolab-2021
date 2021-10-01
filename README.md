@@ -23,3 +23,7 @@ _solutions marked with (*) can be improved; you might find more details in the s
 | Week 1 | Even Pairs | 100 | precomputed sum, combinatorics |
 | Week 1 | Even Matrices | 100 | precomputed sum, combinatorics along one direction |
 | PotW2 | Deck of Cards | 100 | (\*) precomputed sum, binary search, O(n*log n) |
+| Week 2 | Burning Coins | 100 | dynamic programming |
+| Week 2 | Beach Bars | 100 | sliding window |
+| Week 2 | The Great Game | 100 | dynamic programming, minimax |
+| Week 2 | Defensive Line | 100 | sliding window, intervals, dynamic programming |
