@@ -33,7 +33,7 @@
 
 # Executables
 *.exe
-*.out
+#*.out
 *.app
 
 ### CLion+all ###
