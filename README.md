@@ -28,3 +28,7 @@ _solutions marked with (*) can be improved; you might find more details in the s
 | Week 2 | The Great Game | 100 | dynamic programming, minimax |
 | Week 2 | Defensive Line | 100 | sliding window, intervals, dynamic programming |
 | PotW3 | From Russia With Love | 100 | dynamic programming |
+| Week 3 | Hit | 100 | CGAL, simple pass |
+| Week 3 | First Hit | 100 | CGAL, random order, reducing segment in each iteration |
+| Week 3 | Antenna | 100 | CGAL, Min_circle with randomly ordered points |
+| Week 3 | Hiking Maps | 100 | CGAL with Epic kernel (checking orientation) + sliding window on triangles |
