@@ -27,3 +27,4 @@ _solutions marked with (*) can be improved; you might find more details in the s
 | Week 2 | Beach Bars | 100 | sliding window |
 | Week 2 | The Great Game | 100 | dynamic programming, minimax |
 | Week 2 | Defensive Line | 100 | sliding window, intervals, dynamic programming |
+| PotW3 | From Russia With Love | 100 | dynamic programming |
