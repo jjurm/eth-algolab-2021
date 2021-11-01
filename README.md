@@ -32,3 +32,12 @@ _solutions marked with (*) can be improved; you might find more details in the s
 | Week 3 | First Hit | 100 | CGAL, random order, reducing segment in each iteration |
 | Week 3 | Antenna | 100 | CGAL, Min_circle with randomly ordered points |
 | Week 3 | Hiking Maps | 100 | CGAL with Epic kernel (checking orientation) + sliding window on triangles |
+| Week 4 | First Steps with BGL | 100 | BGL with dijkstra and kruskal |
+| Week 4 | Important Bridges | 100 | BGL with  biconnected components | 
+| Week 4 | Buddy Selection | 100 | BGL with Maximum Cardinality Matching |
+| Week 4 | Ant Challenge | 100 | BGL with prims spanning tree and dijkstra |
+| PotW 5 | Motorcycles | 100 | CGAL arbitrary precision over the slopes of the tracks |
+| Week 5 | Boats | 100 | Greedy add boats similar to earliest finishing time |
+| Week 5 | Moving Books | 100 | Greedy assign boxes to carriers |
+| Week 5 | Asterix the Gaul | 100 | Brute Force with binary search + Split & List |
+| PotW 6 | Plantet Express | 80 (provisionally) | BGL with biconnected components (teleport network) and dijkstra |  
